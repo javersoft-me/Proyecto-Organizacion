@@ -153,92 +153,73 @@ certifications:
 projects:
     title: Proyecto
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      La constante evolución de la tecnología y la creciente complejidad de 
+      las necesidades empresariales han hecho que la ingeniería de sistemas 
+      sea una disciplina fundamental en el diseño, desarrollo y mantenimiento
+      de sistemas de información efectivos y eficientes. En este contexto, el 
+      proyecto que realicé fue presentado como una oportunidad para abordar 
+      diferentes aspectos a los cuales puede que nos llegemos a enfrentar.
+
+      El objetivo principal de mi proyecto, era brindar apoyo y asesoria en cuanto
+      a un manejo optimo de los sistemas de informacion, con el fin de 
+      optimizar procesos y ahorarr recursos de la empresa. Para lograr este objetivo, 
+      se llevó a cabo un enfoque metodológico que incluia estrategias de investigacion,
+      para entender el area en el que se trabajaba
+
     assignments:
       - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: .VELOCITY
+        tagline: Empleé un diseño web para ayudar a startups a promocionar y vender productos
 
       - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: .TEMPO
+        tagline: Empleé un diseño web para atraer a usuarios inversores a empresas especificas
 
       - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: .ATOM
+        tagline: Desarrollé y empleé una plantilla web para comercializar aplicaciones moviles
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      El software abierto es una de las caracteristicas mas fundamentales a dia de hoy, contribuir
+      a proyectos de codigo abierto no solo ayuda a mejorar el software, si no que brinda la 
+      posibilidad de los desarrolladores aprendan de otros, algunas de mis contribuciones son:
+
     contributions:
       - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: .TEMPO
+        tagline: Mejoré la accesibilidad de diferentes sitios web, para garantizar que pueda ser usada por personas con discapacidades.
 
       - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: .ATOM
+        tagline: Creé una sección de blog donde los usuarios podian leer artículos relacionados con el desarrollo de aplicaciones móviles.
 
       - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: .DELTA
+        tagline: Agregué una sección de testimonios donde los desarrolladores puedan compartir sus experiencias positivas con la plantilla.
 
 publications:
-    title: Publications
+    title: Publicaciones
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Las publicaciones pueden llegar a demostrar algunas habilidades y conocimientos en diversas areas en 
+      las personas, acá, algunas de mis publicaciones:
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: El arte de la programacion
+        link: .arte
+        authors: Esteban Altamiranda - Miguel Bayona
+        description: La programacion es algo abstracto, que entendiendolo, se puede volver una vocacion. 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades en programacion
 
     toolset:
       - name: Python & Django
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
