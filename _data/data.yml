@@ -65,29 +65,27 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ingenieria de sistemas
+        university: Pontificia Universidad Javeriana
+        time: 2021 - 2025
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Mis estudios en la universidad fueron un total de 4 años para poder graduarme 
+          en esos momentos tenia pensado hacer una especializacion en programacion para
+          para poder trabajar en una de las empresas mas grandes de programacion del 
+          mundo "Microsoft" o tambien trabajar en una compañia de carros para poder
+          automatizar los carros.
 
+
+      - degree: Especializacion en Progrmacion
+        university: Pontificia Universidad Javeriana
+        time: 2025-2028
+        details: |
+        
+          En mi especializacion pude realizar muchos proyectos y uno de esos fue poder hacer una 
+          automatizacion de un carro que este pueda manejar soolo, este proyecto me tomo los 3 
+          años de mi especializacion, y para introducir use metodos como calculos vectoriales y 
+          temas de fundamentos de software para poder desarrollarlo
+          
 experiences:
     title: Experiences
     info:
