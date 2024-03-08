@@ -187,16 +187,16 @@ oss:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: .TEMPO
+        tagline: MejorÉ la accesibilidad de diferentes sitios web, para garantizar que pueda ser usada por personas con discapacidades.
 
       - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: .ATOM
+        tagline: Creé una sección de blog donde los usuarios podian leer artículos relacionados con el desarrollo de aplicaciones móviles.
 
       - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: .DELTA
+        tagline: Agregué una sección de testimonios donde los desarrolladores puedan compartir sus experiencias positivas con la plantilla.
 
 publications:
     title: Publications
