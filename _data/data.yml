@@ -182,13 +182,14 @@ projects:
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      El software abierto es una de las caracteristicas mas fundamentales a dia de hoy, contribuir
+      a proyectos de codigo abierto no solo ayuda a mejorar el software, si no que brinda la 
+      posibilidad de los desarrolladores aprendan de otros, algunas de mis contribuciones son:
+      
     contributions:
       - title: Tempo
         link: .TEMPO
-        tagline: MejorÉ la accesibilidad de diferentes sitios web, para garantizar que pueda ser usada por personas con discapacidades.
+        tagline: Mejoré la accesibilidad de diferentes sitios web, para garantizar que pueda ser usada por personas con discapacidades.
 
       - title: Atom
         link: .ATOM
