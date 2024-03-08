@@ -200,26 +200,16 @@ oss:
         tagline: Agregué una sección de testimonios donde los desarrolladores puedan compartir sus experiencias positivas con la plantilla.
 
 publications:
-    title: Publications
+    title: Publicaciones
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Las publicaciones pueden llegar a demostrar algunas habilidades y conocimientos en diversas areas en 
+      las personas, acá, algunas de mis publicaciones:
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: El arte de la programacion
+        link: .arte
+        authors: Esteban Altamiranda - Miguel Bayona
+        description: La programacion es algo abstracto, que entendiendolo, se puede volver una vocacion. 
 
 skills:
     title: Habilidades en programacion
