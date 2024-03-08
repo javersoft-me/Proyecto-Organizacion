@@ -80,14 +80,14 @@ education:
         university: Pontificia Universidad Javeriana
         time: 2025-2028
         details: |
-        
           En mi especializacion pude realizar muchos proyectos y uno de esos fue poder hacer una 
           automatizacion de un carro que este pueda manejar soolo, este proyecto me tomo los 3 
           años de mi especializacion, y para introducir use metodos como calculos vectoriales y 
           temas de fundamentos de software para poder desarrollarlo
+
           
 experiences:
-    title: Experiences
+    title: Experiencias
     info:
       - role: Desarrollador
         time: 2028 - Present
@@ -98,69 +98,57 @@ experiences:
           o menos analizo unas 2000 lineas de codigo al dia para que a la hora 
           de lanzar el codigo al principal no salga ningun error
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Analista de sistemas
+        time: 2026-2028 
+        company: Google, New York
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Realizó análisis de requerimientos, diseño de bases de datos y 
+          desarrollo de aplicaciones empresariales, Colaboró en la integración 
+          de sistemas de gestión empresarial (ERP) para clientes en el sector 
+          manufacturero Brindó soporte técnico y capacitación a usuarios finales
+          en el uso de sistemas y aplicaciones desarrolladas.
+
+      - role: Ingeniero de Desarrollo de Software
+        time: 2023-2025
+        company: Independiente
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Desarrolló aplicaciones móviles y plataformas web desde cero, desde la 
+          concepción del producto hasta su lanzamiento, colaboró con el equipo de 
+          diseño para crear interfaces intuitivas y atractivas para los usuarios,
+          implementó soluciones de seguridad robustas para proteger los datos 
+          sensibles de los usuarios y participó en la planificación y ejecución 
+          de estrategias de marketing digital para promover las aplicaciones y 
+          aumentar la base de usuarios
+
+
 
 certifications:
-      title: Certifications
+      title: Certificaciones
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Certificación en Desarrollo de Aplicaciones Móviles
+          start: 2013
+          end: 2015
+          organization: Mobile App Development Institute (MADI)
+          credentialid: CDM-2015-1234
+          credentialurl: http://www.madi.org/certificaciones
+          credentialname: Certificado de Desarrollo de Aplicaciones Móviles
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Esta certificación valida habilidades en el desarrollo de aplicaciones
+            móviles nativas para plataformas iOS y Android, incluyendo el uso de 
+            herramientas como Swift, Objective-C y Java.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        - name: Certificación en Seguridad Informática
+          start: Septiembre de 2016
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: SecurityTech Institute
+          credentialid: 1CSI-2016-5678
+          credentialurl: http://www.securitytech.org/certificaciones
+          credentialname: Certificado en Seguridad Informática
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Esta certificación valida habilidades en la implementación 
+            de medidas de seguridad informática, incluyendo el cifrado 
+            de datos, la autenticación de usuarios y la detección de 
+            vulnerabilidades en aplicaciones y sistemas.
 
 projects:
     title: Projects
