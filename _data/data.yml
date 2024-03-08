@@ -55,14 +55,13 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil de Carrera
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      En resumen mi vida profecional e hecho varios proyectos a lo largo de mi vida 
+       uno de esos proyectos fue realizar una pagina web en el que ayudo a unos 
+       compañeros de phsicologia para poder analizar como funcionas las apuestas en 
+       en la mente de las personas y como estas afectan el animo de las personas en 
+       ciertas situaciones
 education:
     title: Education
     info:
