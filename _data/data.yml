@@ -185,7 +185,7 @@ oss:
       El software abierto es una de las caracteristicas mas fundamentales a dia de hoy, contribuir
       a proyectos de codigo abierto no solo ayuda a mejorar el software, si no que brinda la 
       posibilidad de los desarrolladores aprendan de otros, algunas de mis contribuciones son:
-      
+
     contributions:
       - title: Tempo
         link: .TEMPO
@@ -222,26 +222,14 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades en programacion
 
     toolset:
       - name: Python & Django
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
