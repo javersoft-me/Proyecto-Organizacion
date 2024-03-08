@@ -153,9 +153,18 @@ certifications:
 projects:
     title: Proyecto
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      La constante evolución de la tecnología y la creciente complejidad de 
+      las necesidades empresariales han hecho que la ingeniería de sistemas 
+      sea una disciplina fundamental en el diseño, desarrollo y mantenimiento
+      de sistemas de información efectivos y eficientes. En este contexto, el 
+      proyecto que realicé fue presentado como una oportunidad para abordar 
+      diferentes aspectos a los cuales puede que nos llegemos a enfrentar.
+
+      El objetivo principal de mi proyecto, era brindar apoyo y asesoria en cuanto
+      a un manejo optimo de los sistemas de informacion, con el fin de 
+      optimizar procesos y ahorarr recursos de la empresa. Para lograr este objetivo, 
+      se llevó a cabo un enfoque metodológico que incluia estrategias de investigacion,
+      para entender el area en el que se trabajaba
     assignments:
       - title: Velocity
         link: "#hook"
