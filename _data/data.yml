@@ -165,26 +165,19 @@ projects:
       optimizar procesos y ahorarr recursos de la empresa. Para lograr este objetivo, 
       se llevó a cabo un enfoque metodológico que incluia estrategias de investigacion,
       para entender el area en el que se trabajaba
+
     assignments:
       - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: .VELOCITY
+        tagline: Empleé un diseño web para ayudar a startups a promocionar y vender productos
 
       - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: .TEMPO
+        tagline: Empleé un diseño web para atraer a usuarios inversores a empresas especificas
 
       - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: .ATOM
+        tagline: Desarrollé y empleé una plantilla web para comercializar aplicaciones moviles
 
 oss:
     title: OSS Contributions
